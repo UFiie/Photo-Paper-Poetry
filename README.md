@@ -37,7 +37,7 @@ photo-paper-poetry/
 ```bash
 # 在本机克隆到 Codex 的用户级 Skills 目录
 mkdir -p ~/.codex/skills
-git clone https://github.com/<your-name>/photo-paper-poetry.git ~/.codex/skills/photo-paper-poetry
+git clone https://github.com/UFiie/photo-paper-poetry.git ~/.codex/skills/photo-paper-poetry
 ```
 
 随后上传一张实拍照片，并输入：
